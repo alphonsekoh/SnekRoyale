@@ -7,7 +7,7 @@ A snake battle royale player vs player game. Each player will be given 3 lives a
 1. **MUST HAVE**
 	- Lives for the players
 	- Score boards for the players
-	- Concurrent multiplayer system (multi-thread)??
+	
 
 2. **SHOULD HAVE**
 	- Time Trial as a challenge 
@@ -22,7 +22,7 @@ A snake battle royale player vs player game. Each player will be given 3 lives a
 	- Multiple levels for the game
 
 ### UML Diagram
-<img src ="/UML.png" alt="UML Diagram"/>
+<img src ="/UML Diagram.jpg" alt="UML Diagram"/>
 
 -----------------------------------------------------------
 
